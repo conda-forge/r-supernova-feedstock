@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-supernova-fee
 
 Home: https://github.com/UCLATALL/supernova
 
-Package license: AGPL-3.0-or-later
+Package license: GPL-3.0-or-later
 
 Summary: Produces ANOVA tables in the format used by Judd, McClelland, and Ryan (2017, ISBN:
 978-1138819832) in their introductory textbook, Data Analysis. This includes proportional
