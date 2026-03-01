@@ -1,4 +1,4 @@
-{% set version = "3.0.1" %}
+{% set version = "3.0.2" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,7 +9,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/supernova_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/supernova/supernova_{{ version }}.tar.gz
-  sha256: 6ff44349bb5f21613e3e27893390d0259fe42addba7e1886c2c1112c379bf888
+  sha256: eaf91fa72c14b69a4cda6ad849d766b7fbea9623e731b5bef940ffbb5f8600da
 
 build:
   number: 0
